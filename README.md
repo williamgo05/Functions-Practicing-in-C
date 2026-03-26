@@ -1,6 +1,6 @@
 # C Library Reimplementation
 
-## 📚 About the Projec
+## 📚 About the Project
 
 Reimplementation of standard C library functions as a learning project.  
 Focused on strengthening programming logic, and understanding low-level concepts and standard libraries.
