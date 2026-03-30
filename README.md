@@ -31,5 +31,11 @@ The main goal is to deeply understand how these functions work internally.
 - putchar;
 - strlen;
 - putstr;
+- strcpy;
+- strncpy;
+- strcat;
+- strncat;
+- strcmp;
+- strncmp;
 
 | more coming soon :)
