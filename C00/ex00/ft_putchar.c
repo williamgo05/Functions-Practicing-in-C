@@ -9,6 +9,6 @@ void	ft_putchar(char i)
 
 int	main(void)
 {
-	ft_putchar('W');
+	ft_putchar('x');
 	return (0);
 }
